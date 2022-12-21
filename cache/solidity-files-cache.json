@@ -1,0 +1,113 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\MY\\Desktop\\solidity-hacks\\contracts\\Reentracy.sol": {
+      "lastModificationDate": 1671521691224,
+      "contentHash": "cc64146d2f1a8d86c9bced0aa41bb14a",
+      "sourceName": "contracts/Reentracy.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Attack",
+        "EtherStore"
+      ]
+    },
+    "C:\\Users\\MY\\Desktop\\solidity-hacks\\contracts\\ReetrancyProof.sol": {
+      "lastModificationDate": 1671522444140,
+      "contentHash": "3e89b9b277be718153ca3b998d04d549",
+      "sourceName": "contracts/ReetrancyProof.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Attack",
+        "EtherStore"
+      ]
+    },
+    "C:\\Users\\MY\\Desktop\\solidity-hacks\\contracts\\SendEther.sol": {
+      "lastModificationDate": 1671606931387,
+      "contentHash": "ea31b79a6b2166bbad04479c335c0f37",
+      "sourceName": "contracts/SendEther.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.13"
+      ],
+      "artifacts": [
+        "Attack",
+        "EtherGame"
+      ]
+    }
+  }
+}

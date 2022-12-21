@@ -1,0 +1,4 @@
+const {ethers}=require("hardhat");
+web3.eth.getStorageAt(addr1,0,console.log)
+addr1 = "0x534E4Ce0ffF779513793cfd70308AF195827BD31";
+addr1 = "0x534E4Ce0ffF779513793cfd70308AF195827BD31
